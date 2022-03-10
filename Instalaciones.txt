@@ -1,0 +1,6 @@
+// Bootstrap
+npm i bootstrap
+// PropTypes biblioteca para especificar que un componente tiene que recibir un determinado dato  
+npm i prop-types
+// Libreria Animate.style para animación con transiciones
+npm install animate.css --save
